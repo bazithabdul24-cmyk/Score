@@ -1,3 +1,3 @@
-a = int(input("Enter any number: "))
+a = 30
 b = 40
 print(a + b)
